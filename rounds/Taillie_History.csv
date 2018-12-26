@@ -1,0 +1,952 @@
+Index,Stroke,Club,Phase,Start Loc,Start Dist,End Loc,End Dist,Strokes Gained,Tee,Course,Date,Hole,Strokes to Hole
+1,1,Driver,Tee,Tee,390,Rough,100,-0.04,Medal,LaurelCreek,2/21/2018,1,6
+2,2,AW,APPR<125,Rough,100,Sand,10,-0.41,Medal,LaurelCreek,2/21/2018,1,5
+3,3,LW,Short Game,Sand,10,Green,15,-0.36,Medal,LaurelCreek,2/21/2018,1,4
+4,4,Putter,Green,Green,15,Green,6,-0.567,Medal,LaurelCreek,2/21/2018,1,3
+5,5,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,2/21/2018,1,2
+6,6,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,1,1
+7,7,Driver,Tee,Tee,349,Fairway,105,0.075,Medal,LaurelCreek,2/21/2018,2,4
+8,8,SW,APPR<125,Fairway,105,Green,14,0.048,Medal,LaurelCreek,2/21/2018,2,3
+9,9,Putter,Green,Green,14,Green,2,-0.244,Medal,LaurelCreek,2/21/2018,2,2
+10,10,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,2/21/2018,2,1
+11,11,6i,Tee,Tee,165,Sand,20,-0.525,Medal,LaurelCreek,2/21/2018,3,4
+12,12,LW,Short Game,Sand,20,Rough,20,-1.06,Medal,LaurelCreek,2/21/2018,3,3
+13,13,LW,Short Game,Rough,20,Rough,8,-0.75,Medal,LaurelCreek,2/21/2018,3,2
+14,14,LW,Short Game,Rough,8,In the Hole,0,1.34,Medal,LaurelCreek,2/21/2018,3,1
+15,15,Driver,Tee,Tee,355,Fairway,160,-0.075,Medal,LaurelCreek,2/21/2018,4,5
+16,16,5i,APPR125-175,Fairway,160,Green,40,-0.075,Medal,LaurelCreek,2/21/2018,4,4
+17,17,Putter,Green,Green,40,Green,10,-0.571,Medal,LaurelCreek,2/21/2018,4,3
+18,18,Putter,Green,Green,10,Green,2,-0.383,Medal,LaurelCreek,2/21/2018,4,2
+19,19,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,2/21/2018,4,1
+20,20,Driver,Tee,Tee,482,Fairway,295,-0.453,Medal,LaurelCreek,2/21/2018,5,6
+21,21,3H,APPR210+,Fairway,295,Fairway,66,0.035,Medal,LaurelCreek,2/21/2018,5,5
+22,22,LW,Short Game,Fairway,66,Green,30,-0.266,Medal,LaurelCreek,2/21/2018,5,4
+23,23,Putter,Green,Green,30,Green,5,-0.278,Medal,LaurelCreek,2/21/2018,5,3
+24,24,Putter,Green,Green,5,Green,1,-0.745,Medal,LaurelCreek,2/21/2018,5,2
+25,25,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,5,1
+26,26,Driver,Tee,Tee,400,Fairway,145,0.062,Medal,LaurelCreek,2/21/2018,6,4
+27,27,PW,APPR125-175,Fairway,145,Green,15,0.138,Medal,LaurelCreek,2/21/2018,6,3
+28,28,Putter,Green,Green,15,Green,1,-0.211,Medal,LaurelCreek,2/21/2018,6,2
+29,29,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,6,1
+30,30,8i,Tee,Tee,155,Green,35,-0.031,Medal,LaurelCreek,2/21/2018,7,3
+31,31,Putter,Green,Green,35,Green,4,-0.131,Medal,LaurelCreek,2/21/2018,7,2
+32,32,Putter,Green,Green,4,In the Hole,0,0.147,Medal,LaurelCreek,2/21/2018,7,1
+33,33,4i,Tee,Tee,311,Fairway,100,-0.046,Medal,LaurelCreek,2/21/2018,8,5
+34,34,SW,APPR<125,Fairway,100,Green,30,-0.178,Medal,LaurelCreek,2/21/2018,8,4
+35,35,Putter,Green,Green,30,Green,5,-0.278,Medal,LaurelCreek,2/21/2018,8,3
+36,36,Putter,Green,Green,5,Green,1,-0.745,Medal,LaurelCreek,2/21/2018,8,2
+37,37,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,8,1
+38,38,Driver,Tee,Tee,495,Penalty,195,-1.0125,Medal,LaurelCreek,2/21/2018,9,6
+39,39,Penalty,Penalty,Penalty,195,Penalty,0,0,Medal,LaurelCreek,2/21/2018,9,5
+40,40,6i,APPR176-210,Rough,195,Sand,20,-0.137,Medal,LaurelCreek,2/21/2018,9,4
+41,41,LW,Short Game,Sand,20,Green,12,-0.175,Medal,LaurelCreek,2/21/2018,9,3
+42,42,Putter,Green,Green,12,Green,1,-0.296,Medal,LaurelCreek,2/21/2018,9,2
+43,43,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,9,1
+44,44,Driver,Tee,Tee,400,Fairway,150,0.045,Medal,LaurelCreek,2/21/2018,10,4
+45,45,8i,APPR125-175,Fairway,150,Fairway,25,-0.515,Medal,LaurelCreek,2/21/2018,10,3
+46,46,SW,Short Game,Fairway,25,Green,8,-0.055,Medal,LaurelCreek,2/21/2018,10,2
+47,47,Putter,Green,Green,8,In the Hole,0,0.515,Medal,LaurelCreek,2/21/2018,10,1
+48,48,3W,Tee,Tee,342,Rough,150,-0.324,Medal,LaurelCreek,2/21/2018,11,5
+49,49,7i,APPR125-175,Rough,150,Green,30,0.212,Medal,LaurelCreek,2/21/2018,11,4
+50,50,Putter,Green,Green,30,Green,6,-0.379,Medal,LaurelCreek,2/21/2018,11,3
+51,51,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,2/21/2018,11,2
+52,52,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,11,1
+53,53,Driver,Tee,Tee,412,Fairway,195,-0.151,Medal,LaurelCreek,2/21/2018,12,4
+54,54,3H,APPR176-210,Fairway,195,Green,35,0.147,Medal,LaurelCreek,2/21/2018,12,3
+55,55,Putter,Green,Green,35,Green,4,-0.131,Medal,LaurelCreek,2/21/2018,12,2
+56,56,Putter,Green,Green,4,In the Hole,0,0.147,Medal,LaurelCreek,2/21/2018,12,1
+57,57,Driver,Tee,Tee,360,Fairway,150,-0.025,Medal,LaurelCreek,2/21/2018,13,5
+58,58,7i,APPR125-175,Fairway,150,Sand,20,-0.585,Medal,LaurelCreek,2/21/2018,13,4
+59,59,LW,Short Game,Sand,20,Green,10,-0.096,Medal,LaurelCreek,2/21/2018,13,3
+60,60,Putter,Green,Green,10,Green,1,-0.375,Medal,LaurelCreek,2/21/2018,13,2
+61,61,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,13,1
+62,62,8i,Tee,Tee,150,Green,20,0.102,Medal,LaurelCreek,2/21/2018,14,3
+63,63,Putter,Green,Green,20,Green,3,-0.175,Medal,LaurelCreek,2/21/2018,14,2
+64,64,Putter,Green,Green,3,In the Hole,0,0.053,Medal,LaurelCreek,2/21/2018,14,1
+65,65,Driver,Tee,Tee,466,Rough,190,-0.159,Medal,LaurelCreek,2/21/2018,15,5
+66,66,6i,APPR176-210,Rough,190,Fairway,60,-0.335,Medal,LaurelCreek,2/21/2018,15,4
+67,67,SW,Short Game,Fairway,60,Rough,10,-0.64,Medal,LaurelCreek,2/21/2018,15,3
+68,68,LW,Short Game,Rough,10,Green,5,0.084,Medal,LaurelCreek,2/21/2018,15,2
+69,69,Putter,Green,Green,5,In the Hole,0,0.256,Medal,LaurelCreek,2/21/2018,15,1
+70,70,3W,Tee,Tee,368,Fairway,133,0.047,Medal,LaurelCreek,2/21/2018,16,4
+71,71,PW,APPR125-175,Fairway,133,Green,10,0.263,Medal,LaurelCreek,2/21/2018,16,3
+72,72,Putter,Green,Green,10,Green,1,-0.375,Medal,LaurelCreek,2/21/2018,16,2
+73,73,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,16,1
+74,74,5i,Tee,Tee,195,Green,12,0.4,Medal,LaurelCreek,2/21/2018,17,3
+75,75,Putter,Green,Green,12,Green,1,-0.296,Medal,LaurelCreek,2/21/2018,17,2
+76,76,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,2/21/2018,17,1
+77,77,3W,Tee,Tee,407,Fairway,160,0.024,Medal,LaurelCreek,2/21/2018,18,4
+78,78,8i,APPR125-175,Fairway,160,Green,15,0.19,Medal,LaurelCreek,2/21/2018,18,3
+79,79,Putter,Green,Green,15,Green,4,-0.357,Medal,LaurelCreek,2/21/2018,18,2
+80,80,Putter,Green,Green,4,In the Hole,0,0.147,Medal,LaurelCreek,2/21/2018,18,1
+1,1,Driver,Tee,Tee,417,Fairway,105,0.204,Palmer,LaurelCreek,12/14/2018,1,4
+2,2,AW,APPR<125,Fairway,105,Green,8,0.298,Palmer,LaurelCreek,12/14/2018,1,3
+3,3,Putter,Green,Green,8,Green,4,-0.632,Palmer,LaurelCreek,12/14/2018,1,2
+4,4,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,12/14/2018,1,1
+5,5,Driver,Tee,Tee,360,Fairway,105,0.107,Palmer,LaurelCreek,12/14/2018,2,6
+6,6,SW,APPR<125,Fairway,105,Sand,30,-0.848,Palmer,LaurelCreek,12/14/2018,2,5
+7,7,LW,Short Game,Sand,30,Green,28,-0.301,Palmer,LaurelCreek,12/14/2018,2,4
+8,8,Putter,Green,Green,28,Green,7,-0.482,Palmer,LaurelCreek,12/14/2018,2,3
+9,9,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,12/14/2018,2,2
+10,10,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,2,1
+11,11,9i,Tee,Tee,148,Green,20,0.1,Palmer,LaurelCreek,12/14/2018,3,4
+12,12,Putter,Green,Green,20,Green,6,-0.479,Palmer,LaurelCreek,12/14/2018,3,3
+13,13,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,12/14/2018,3,2
+14,14,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,3,1
+15,15,Driver,Tee,Tee,420,Fairway,163,0.025,Palmer,LaurelCreek,12/14/2018,4,4
+16,16,6i,APPR125-175,Fairway,163,Green,7,0.552,Palmer,LaurelCreek,12/14/2018,4,3
+17,17,Putter,Green,Green,7,Green,3,-0.61,Palmer,LaurelCreek,12/14/2018,4,2
+18,18,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/14/2018,4,1
+19,19,Driver,Tee,Tee,490,Fairway,240,-0.1,Palmer,LaurelCreek,12/14/2018,5,6
+20,20,3W,APPR210+,Fairway,240,Penalty,87,-1.531,Palmer,LaurelCreek,12/14/2018,5,5
+21,21,Penalty,Penalty,Penalty,87,Penalty,0,0,Palmer,LaurelCreek,12/14/2018,5,4
+22,22,SW,APPR<125,Rough,87,Green,10,0.355,Palmer,LaurelCreek,12/14/2018,5,3
+23,23,Putter,Green,Green,10,Green,2,-0.383,Palmer,LaurelCreek,12/14/2018,5,2
+24,24,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,12/14/2018,5,1
+25,25,Driver,Tee,Tee,410,Fairway,180,-0.07,Palmer,LaurelCreek,12/14/2018,6,4
+26,26,5i,APPR176-210,Fairway,180,Green,9,0.505,Palmer,LaurelCreek,12/14/2018,6,3
+27,27,Putter,Green,Green,9,Green,3,-0.478,Palmer,LaurelCreek,12/14/2018,6,2
+28,28,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/14/2018,6,1
+29,29,5i,Tee,Tee,180,Green,35,0.034,Palmer,LaurelCreek,12/14/2018,7,4
+30,30,Putter,Green,Green,35,Green,8,-0.499,Palmer,LaurelCreek,12/14/2018,7,3
+31,31,Putter,Green,Green,8,Green,2,-0.494,Palmer,LaurelCreek,12/14/2018,7,2
+32,32,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,12/14/2018,7,1
+33,33,3W,Tee,Tee,330,Fairway,105,0.018,Palmer,LaurelCreek,12/14/2018,8,4
+34,34,SW,APPR<125,Fairway,105,Green,12,0.107,Palmer,LaurelCreek,12/14/2018,8,3
+35,35,Putter,Green,Green,12,Green,2,-0.304,Palmer,LaurelCreek,12/14/2018,8,2
+36,36,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,12/14/2018,8,1
+37,37,Driver,Tee,Tee,510,Fairway,240,0.03,Palmer,LaurelCreek,12/14/2018,9,6
+38,38,3W,APPR210+,Fairway,240,Penalty,135,-1.445,Palmer,LaurelCreek,12/14/2018,9,5
+39,39,Penalty,Penalty,Penalty,135,Penalty,0,0,Palmer,LaurelCreek,12/14/2018,9,4
+40,40,PW,APPR125-175,Fairway,135,Green,25,-0.039,Palmer,LaurelCreek,12/14/2018,9,3
+41,41,Putter,Green,Green,25,Green,3,-0.119,Palmer,LaurelCreek,12/14/2018,9,2
+42,42,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/14/2018,9,1
+43,43,Driver,Tee,Tee,410,Fairway,165,0.005,Palmer,LaurelCreek,12/14/2018,10,4
+44,44,7i,APPR125-175,Fairway,165,Fairway,25,-0.455,Palmer,LaurelCreek,12/14/2018,10,3
+45,45,SW,Short Game,Fairway,25,Green,4,0.313,Palmer,LaurelCreek,12/14/2018,10,2
+46,46,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,12/14/2018,10,1
+47,47,Driver,Tee,Tee,380,Fairway,145,0.032,Palmer,LaurelCreek,12/14/2018,11,3
+48,48,7i,APPR125-175,Fairway,145,Green,3,0.875,Palmer,LaurelCreek,12/14/2018,11,2
+49,49,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/14/2018,11,1
+50,50,Driver,Tee,Tee,420,Fairway,180,-0.06,Palmer,LaurelCreek,12/14/2018,12,4
+51,51,5i,APPR176-210,Fairway,180,Green,10,0.454,Palmer,LaurelCreek,12/14/2018,12,3
+52,52,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,12/14/2018,12,2
+53,53,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,12,1
+54,54,Driver,Tee,Tee,360,Fairway,132,0.034,Palmer,LaurelCreek,12/14/2018,13,5
+55,55,9i,APPR125-175,Fairway,132,Green,25,-0.048,Palmer,LaurelCreek,12/14/2018,13,4
+56,56,Putter,Green,Green,25,Green,8,-0.581,Palmer,LaurelCreek,12/14/2018,13,3
+57,57,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,12/14/2018,13,2
+58,58,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,13,1
+59,59,6i,Tee,Tee,168,Green,30,0.036,Palmer,LaurelCreek,12/14/2018,14,4
+60,60,Putter,Green,Green,30,Green,8,-0.537,Palmer,LaurelCreek,12/14/2018,14,3
+61,61,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,12/14/2018,14,2
+62,62,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,14,1
+63,63,Driver,Tee,Tee,510,Fairway,260,-0.1,Palmer,LaurelCreek,12/14/2018,15,6
+64,64,3W,APPR210+,Fairway,260,Fairway,32,0.044,Palmer,LaurelCreek,12/14/2018,15,5
+65,65,LW,Short Game,Fairway,32,Green,15,-0.254,Palmer,LaurelCreek,12/14/2018,15,4
+66,66,Putter,Green,Green,15,Green,6,-0.567,Palmer,LaurelCreek,12/14/2018,15,3
+67,67,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,12/14/2018,15,2
+68,68,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,15,1
+69,69,Driver,Tee,Tee,420,Fairway,180,-0.06,Palmer,LaurelCreek,12/14/2018,16,6
+70,70,5i,APPR176-210,Fairway,180,Sand,25,-0.515,Palmer,LaurelCreek,12/14/2018,16,5
+71,71,LW,Short Game,Sand,25,Sand,15,-0.885,Palmer,LaurelCreek,12/14/2018,16,4
+72,72,LW,Short Game,Sand,15,Rough,10,-0.86,Palmer,LaurelCreek,12/14/2018,16,3
+73,73,LW,Short Game,Rough,10,Green,8,-0.175,Palmer,LaurelCreek,12/14/2018,16,2
+74,74,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,12/14/2018,16,1
+75,75,5i,Tee,Tee,190,Rough,20,-0.5,Palmer,LaurelCreek,12/14/2018,17,4
+76,76,SW,Short Game,Rough,20,Green,15,-0.2,Palmer,LaurelCreek,12/14/2018,17,3
+77,77,Putter,Green,Green,15,Green,5,-0.466,Palmer,LaurelCreek,12/14/2018,17,2
+78,78,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/14/2018,17,1
+79,79,Driver,Tee,Tee,405,Fairway,163,0.005,Palmer,LaurelCreek,12/14/2018,18,5
+80,80,8i,APPR125-175,Fairway,163,Rough,20,-0.595,Palmer,LaurelCreek,12/14/2018,18,4
+81,81,LW,Short Game,Rough,20,Green,8,0.075,Palmer,LaurelCreek,12/14/2018,18,3
+82,82,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,12/14/2018,18,2
+83,83,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/14/2018,18,1
+1,1,Driver,Tee,Tee,420,Fairway,125,0.155,Palmer,LaurelCreek,11/11/2018,1,6
+2,2,AW,APPR125-175,Fairway,125,Rough,15,-0.6,Palmer,LaurelCreek,11/11/2018,1,5
+3,3,LW,Short Game,Rough,15,Fairway,20,-0.935,Palmer,LaurelCreek,11/11/2018,1,4
+4,4,LW,Short Game,Fairway,20,Green,20,-0.478,Palmer,LaurelCreek,11/11/2018,1,3
+5,5,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,11/11/2018,1,2
+6,6,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,11/11/2018,1,1
+7,7,3W,Tee,Tee,360,Recovery,200,-0.95,Palmer,LaurelCreek,11/11/2018,2,6
+8,8,7i,Recovery,Recovery,200,Fairway,145,-0.058,Palmer,LaurelCreek,11/11/2018,2,5
+9,9,8i,APPR125-175,Fairway,145,Fairway,20,-0.472,Palmer,LaurelCreek,11/11/2018,2,4
+10,10,SW,Short Game,Fairway,20,Green,25,-0.534,Palmer,LaurelCreek,11/11/2018,2,3
+11,11,Putter,Green,Green,25,Green,2,-0.075,Palmer,LaurelCreek,11/11/2018,2,2
+12,12,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,11/11/2018,2,1
+13,13,7i,Tee,Tee,163,Green,25,0.065,Palmer,LaurelCreek,11/11/2018,3,4
+14,14,Putter,Green,Green,25,Green,5,-0.322,Palmer,LaurelCreek,11/11/2018,3,3
+15,15,Putter,Green,Green,5,Green,1,-0.745,Palmer,LaurelCreek,11/11/2018,3,2
+16,16,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,3,1
+17,17,Driver,Tee,Tee,390,Rough,170,-0.29,Palmer,LaurelCreek,11/11/2018,4,4
+18,18,6i,APPR125-175,Rough,170,Green,10,0.644,Palmer,LaurelCreek,11/11/2018,4,3
+19,19,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,11/11/2018,4,2
+20,20,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,4,1
+21,21,Driver,Tee,Tee,510,Fairway,243,0.011,Palmer,LaurelCreek,11/11/2018,5,5
+22,22,6i,APPR210+,Fairway,243,Fairway,60,-0.231,Palmer,LaurelCreek,11/11/2018,5,4
+23,23,SW,Short Game,Fairway,60,Green,15,-0.09,Palmer,LaurelCreek,11/11/2018,5,3
+24,24,Putter,Green,Green,15,Green,2,-0.219,Palmer,LaurelCreek,11/11/2018,5,2
+25,25,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,11/11/2018,5,1
+26,26,Driver,Tee,Tee,410,Fairway,170,-0.02,Palmer,LaurelCreek,11/11/2018,6,3
+27,27,6i,APPR125-175,Fairway,170,Green,1,1.029,Palmer,LaurelCreek,11/11/2018,6,2
+28,28,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,6,1
+29,29,4i,Tee,Tee,201,Rough,30,-0.577,Palmer,LaurelCreek,11/11/2018,7,5
+30,30,LW,Short Game,Rough,30,Rough,10,-0.64,Palmer,LaurelCreek,11/11/2018,7,4
+31,31,LW,Short Game,Rough,10,Green,25,-0.594,Palmer,LaurelCreek,11/11/2018,7,3
+32,32,Putter,Green,Green,25,Green,4,-0.213,Palmer,LaurelCreek,11/11/2018,7,2
+33,33,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,11/11/2018,7,1
+34,34,3W,Tee,Tee,340,Fairway,125,-0.005,Palmer,LaurelCreek,11/11/2018,8,5
+35,35,AW,APPR125-175,Fairway,125,Fairway,10,-0.315,Palmer,LaurelCreek,11/11/2018,8,4
+36,36,Putter,Short Game,Fairway,10,Green,10,-0.446,Palmer,LaurelCreek,11/11/2018,8,3
+37,37,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,11/11/2018,8,2
+38,38,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,8,1
+39,39,Driver,Tee,Tee,510,Fairway,220,0.16,Palmer,LaurelCreek,11/11/2018,9,5
+40,40,4i,APPR210+,Fairway,220,Green,50,0.185,Palmer,LaurelCreek,11/11/2018,9,4
+41,41,Putter,Green,Green,50,Green,10,-0.491,Palmer,LaurelCreek,11/11/2018,9,3
+42,42,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,11/11/2018,9,2
+43,43,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,9,1
+44,44,Driver,Tee,Tee,410,Rough,153,-0.192,Palmer,LaurelCreek,11/11/2018,10,4
+45,45,8i,APPR125-175,Rough,153,Green,20,0.324,Palmer,LaurelCreek,11/11/2018,10,3
+46,46,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,11/11/2018,10,2
+47,47,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,11/11/2018,10,1
+48,48,Driver,Tee,Tee,380,Fairway,145,0.032,Palmer,LaurelCreek,11/11/2018,11,4
+49,49,9i,APPR125-175,Fairway,145,Rough,15,-0.537,Palmer,LaurelCreek,11/11/2018,11,3
+50,50,SW,Short Game,Rough,15,Green,1,0.464,Palmer,LaurelCreek,11/11/2018,11,2
+51,51,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,11,1
+52,52,Driver,Tee,Tee,420,Fairway,170,-0.01,Palmer,LaurelCreek,11/11/2018,12,4
+53,53,6i,APPR125-175,Fairway,170,Green,20,0.152,Palmer,LaurelCreek,11/11/2018,12,3
+54,54,Putter,Green,Green,20,Green,5,-0.378,Palmer,LaurelCreek,11/11/2018,12,2
+55,55,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,11/11/2018,12,1
+56,56,Driver,Tee,Tee,360,Fairway,130,0.04,Palmer,LaurelCreek,11/11/2018,13,4
+57,57,PW,APPR125-175,Fairway,130,Green,20,0.002,Palmer,LaurelCreek,11/11/2018,13,3
+58,58,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,11/11/2018,13,2
+59,59,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,11/11/2018,13,1
+60,60,6i,Tee,Tee,170,Rough,15,-0.445,Palmer,LaurelCreek,11/11/2018,14,4
+61,61,LW,Short Game,Rough,15,Rough,14,-0.975,Palmer,LaurelCreek,11/11/2018,14,3
+62,62,LW,Short Game,Rough,14,Green,3,0.387,Palmer,LaurelCreek,11/11/2018,14,2
+63,63,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,11/11/2018,14,1
+64,64,Driver,Tee,Tee,510,Fairway,250,-0.035,Palmer,LaurelCreek,11/11/2018,15,6
+65,65,3W,APPR210+,Fairway,250,Fairway,50,-0.145,Palmer,LaurelCreek,11/11/2018,15,5
+66,66,LW,Short Game,Fairway,50,Rough,10,-0.68,Palmer,LaurelCreek,11/11/2018,15,4
+67,67,LW,Short Game,Rough,10,Green,10,-0.286,Palmer,LaurelCreek,11/11/2018,15,3
+68,68,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,11/11/2018,15,2
+69,69,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,11/11/2018,15,1
+70,70,Driver,Tee,Tee,410,Fairway,160,0.03,Palmer,LaurelCreek,11/11/2018,16,4
+71,71,7i,APPR125-175,Fairway,160,Fairway,50,-0.68,Palmer,LaurelCreek,11/11/2018,16,3
+72,72,LW,Short Game,Fairway,50,Green,10,0.034,Palmer,LaurelCreek,11/11/2018,16,2
+73,73,Putter,Green,Green,10,In the Hole,0,0.626,Palmer,LaurelCreek,11/11/2018,16,1
+74,74,4i,Tee,Tee,220,Penalty,220,-2,Palmer,LaurelCreek,11/11/2018,17,5
+75,75,Penalty,Penalty,Penalty,220,Penalty,0,0,Palmer,LaurelCreek,11/11/2018,17,4
+76,76,9i,APPR125-175,Rough,145,Green,15,0.38,Palmer,LaurelCreek,11/11/2018,17,3
+77,77,Putter,Green,Green,15,Green,3,-0.263,Palmer,LaurelCreek,11/11/2018,17,2
+78,78,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,11/11/2018,17,1
+79,79,Driver,Tee,Tee,410,Fairway,150,0.065,Palmer,LaurelCreek,11/11/2018,18,5
+80,80,8i,APPR125-175,Fairway,150,Rough,10,-0.395,Palmer,LaurelCreek,11/11/2018,18,4
+81,81,SW,Short Game,Rough,10,Green,12,-0.365,Palmer,LaurelCreek,11/11/2018,18,3
+82,82,Putter,Green,Green,12,Green,2,-0.304,Palmer,LaurelCreek,11/11/2018,18,2
+83,83,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,11/11/2018,18,1
+1,1,Driver,Tee,Tee,410,Rough,105,-0.025,Palmer,LaurelCreek,12/2/2018,1,4
+2,2,SW,APPR<125,Rough,105,Green,35,0.019,Palmer,LaurelCreek,12/2/2018,1,3
+3,3,Putter,Green,Green,35,Green,5,-0.24,Palmer,LaurelCreek,12/2/2018,1,2
+4,4,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/2/2018,1,1
+5,5,Driver,Tee,Tee,360,Penalty,360,-2,Palmer,LaurelCreek,12/2/2018,2,6
+6,6,Penalty,Penalty,Penalty,360,Penalty,0,0,Palmer,LaurelCreek,12/2/2018,2,5
+7,7,Driver,Tee,Tee,360,Rough,125,-0.178,Palmer,LaurelCreek,12/2/2018,2,4
+8,8,AW,APPR125-175,Rough,125,Green,25,0.164,Palmer,LaurelCreek,12/2/2018,2,3
+9,9,Putter,Green,Green,25,Green,3,-0.119,Palmer,LaurelCreek,12/2/2018,2,2
+10,10,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/2/2018,2,1
+11,11,6i,Tee,Tee,168,Green,5,0.758,Palmer,LaurelCreek,12/2/2018,3,3
+12,12,Putter,Green,Green,5,Green,1,-0.745,Palmer,LaurelCreek,12/2/2018,3,2
+13,13,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,3,1
+14,14,Driver,Tee,Tee,390,Fairway,160,0,Palmer,LaurelCreek,12/2/2018,4,4
+15,15,7i,APPR125-175,Fairway,160,Green,18,0.132,Palmer,LaurelCreek,12/2/2018,4,3
+16,16,Putter,Green,Green,18,Green,4,-0.299,Palmer,LaurelCreek,12/2/2018,4,2
+17,17,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,12/2/2018,4,1
+18,18,Driver,Tee,Tee,510,Penalty,330,-1.505,Palmer,LaurelCreek,12/2/2018,5,7
+19,19,Penalty,Penalty,Penalty,330,Penalty,0,0,Palmer,LaurelCreek,12/2/2018,5,6
+20,20,3W,APPR210+,Rough,330,Fairway,250,-0.53,Palmer,LaurelCreek,12/2/2018,5,5
+21,21,3W,APPR210+,Fairway,250,Fairway,25,0.055,Palmer,LaurelCreek,12/2/2018,5,4
+22,22,8i,Short Game,Fairway,25,Green,10,-0.166,Palmer,LaurelCreek,12/2/2018,5,3
+23,23,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,12/2/2018,5,2
+24,24,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,5,1
+25,25,Driver,Tee,Tee,420,Fairway,175,-0.035,Palmer,LaurelCreek,12/2/2018,6,5
+26,26,6i,APPR176-210,Fairway,175,Fairway,20,-0.345,Palmer,LaurelCreek,12/2/2018,6,4
+27,27,LW,Short Game,Fairway,20,Rough,10,-0.94,Palmer,LaurelCreek,12/2/2018,6,3
+28,28,LW,Short Game,Rough,10,Green,5,0.084,Palmer,LaurelCreek,12/2/2018,6,2
+29,29,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/2/2018,6,1
+30,30,6i,Tee,Tee,169,Rough,12,-0.373,Palmer,LaurelCreek,12/2/2018,7,3
+31,31,LW,Short Game,Rough,12,Green,5,0.134,Palmer,LaurelCreek,12/2/2018,7,2
+32,32,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/2/2018,7,1
+33,33,3W,Tee,Tee,350,Penalty,350,-2,Palmer,LaurelCreek,12/2/2018,8,6
+34,34,Penalty,Penalty,Penalty,350,Penalty,0,0,Palmer,LaurelCreek,12/2/2018,8,5
+35,35,3W,Tee,Tee,350,Fairway,105,0.078,Palmer,LaurelCreek,12/2/2018,8,4
+36,36,SW,APPR<125,Fairway,105,Green,10,0.187,Palmer,LaurelCreek,12/2/2018,8,3
+37,37,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,12/2/2018,8,2
+38,38,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,8,1
+39,39,Driver,Tee,Tee,510,Fairway,280,-0.17,Palmer,LaurelCreek,12/2/2018,9,5
+40,40,3W,APPR210+,Fairway,280,Fairway,90,-0.12,Palmer,LaurelCreek,12/2/2018,9,4
+41,41,SW,APPR<125,Fairway,90,Green,10,0.144,Palmer,LaurelCreek,12/2/2018,9,3
+42,42,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,12/2/2018,9,2
+43,43,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,9,1
+44,44,Driver,Tee,Tee,410,Fairway,200,-0.18,Palmer,LaurelCreek,12/2/2018,10,4
+45,45,4i,APPR176-210,Fairway,200,Fairway,20,-0.21,Palmer,LaurelCreek,12/2/2018,10,3
+46,46,SW,Short Game,Fairway,20,Green,15,-0.39,Palmer,LaurelCreek,12/2/2018,10,2
+47,47,Putter,Green,Green,15,In the Hole,0,0.79,Palmer,LaurelCreek,12/2/2018,10,1
+48,48,Driver,Tee,Tee,400,Fairway,130,0.11,Palmer,LaurelCreek,12/2/2018,11,3
+49,49,PW,APPR125-175,Fairway,130,Green,5,0.624,Palmer,LaurelCreek,12/2/2018,11,2
+50,50,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/2/2018,11,1
+51,51,Driver,Tee,Tee,420,Sand,190,-0.455,Palmer,LaurelCreek,12/2/2018,12,5
+52,52,4i,APPR176-210,Sand,190,Fairway,30,-0.045,Palmer,LaurelCreek,12/2/2018,12,4
+53,53,SW,Short Game,Fairway,30,Green,20,-0.358,Palmer,LaurelCreek,12/2/2018,12,3
+54,54,Putter,Green,Green,20,Green,5,-0.378,Palmer,LaurelCreek,12/2/2018,12,2
+55,55,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,12/2/2018,12,1
+56,56,Driver,Tee,Tee,360,Fairway,135,0.025,Palmer,LaurelCreek,12/2/2018,13,5
+57,57,PW,APPR125-175,Fairway,135,Rough,10,-0.445,Palmer,LaurelCreek,12/2/2018,13,4
+58,58,Putter,Short Game,Rough,10,Green,15,-0.45,Palmer,LaurelCreek,12/2/2018,13,3
+59,59,Putter,Green,Green,15,Green,1,-0.211,Palmer,LaurelCreek,12/2/2018,13,2
+60,60,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,13,1
+61,61,8i,Tee,Tee,150,Green,13,0.243,Palmer,LaurelCreek,12/2/2018,14,3
+62,62,Putter,Green,Green,13,Green,2,-0.272,Palmer,LaurelCreek,12/2/2018,14,2
+63,63,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,12/2/2018,14,1
+64,64,Driver,Tee,Tee,510,Fairway,265,-0.117,Palmer,LaurelCreek,12/2/2018,15,5
+65,65,3W,APPR210+,Fairway,265,Fairway,20,0.198,Palmer,LaurelCreek,12/2/2018,15,4
+66,66,SW,Short Game,Fairway,20,Green,7,-0.043,Palmer,LaurelCreek,12/2/2018,15,3
+67,67,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,12/2/2018,15,2
+68,68,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,15,1
+69,69,Driver,Tee,Tee,390,Fairway,170,-0.05,Palmer,LaurelCreek,12/2/2018,16,4
+70,70,6i,APPR125-175,Fairway,170,Green,20,0.152,Palmer,LaurelCreek,12/2/2018,16,3
+71,71,Putter,Green,Green,20,Green,1,-0.123,Palmer,LaurelCreek,12/2/2018,16,2
+72,72,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,16,1
+73,73,4i,Tee,Tee,200,Rough,25,-0.525,Palmer,LaurelCreek,12/2/2018,17,4
+74,74,SW,Short Game,Rough,25,Green,8,0.13,Palmer,LaurelCreek,12/2/2018,17,3
+75,75,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,12/2/2018,17,2
+76,76,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,12/2/2018,17,1
+77,77,3W,Tee,Tee,410,Fairway,175,-0.045,Palmer,LaurelCreek,12/2/2018,18,4
+78,78,6i,APPR176-210,Fairway,175,Green,9,0.48,Palmer,LaurelCreek,12/2/2018,18,3
+79,79,Putter,Green,Green,9,Green,3,-0.478,Palmer,LaurelCreek,12/2/2018,18,2
+80,80,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,12/2/2018,18,1
+1,1,3W,Tee,Tee,390,Fairway,90,0.21,Palmer,LaurelCreek,6/3/2018,1,3
+2,2,LW,APPR<125,Fairway,90,Green,4,0.623,Palmer,LaurelCreek,6/3/2018,1,2
+3,3,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,6/3/2018,1,1
+4,4,3H,Tee,Tee,360,Fairway,120,0.07,Palmer,LaurelCreek,6/3/2018,2,4
+5,5,SW,APPR<125,Fairway,120,Green,30,-0.128,Palmer,LaurelCreek,6/3/2018,2,3
+6,6,Putter,Green,Green,30,Green,3,-0.075,Palmer,LaurelCreek,6/3/2018,2,2
+7,7,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,6/3/2018,2,1
+8,8,9i,Tee,Tee,148,Rough,15,-0.487,Palmer,LaurelCreek,6/3/2018,3,4
+9,9,LW,Short Game,Rough,15,Green,10,-0.161,Palmer,LaurelCreek,6/3/2018,3,3
+10,10,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,6/3/2018,3,2
+11,11,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,6/3/2018,3,1
+12,12,3H,Tee,Tee,365,Rough,128,-0.178,Palmer,LaurelCreek,6/3/2018,4,3
+13,13,AW,APPR125-175,Rough,128,Green,10,0.482,Palmer,LaurelCreek,6/3/2018,4,2
+14,14,Putter,Green,Green,10,In the Hole,0,0.626,Palmer,LaurelCreek,6/3/2018,4,1
+15,15,Driver,Tee,Tee,490,Fairway,179,0.275,Palmer,LaurelCreek,6/3/2018,5,4
+16,16,7i,APPR176-210,Fairway,179,Rough,10,-0.265,Palmer,LaurelCreek,6/3/2018,5,3
+17,17,LW,Short Game,Rough,10,Green,4,0.193,Palmer,LaurelCreek,6/3/2018,5,2
+18,18,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,6/3/2018,5,1
+19,19,Driver,Tee,Tee,410,Rough,200,-0.41,Palmer,LaurelCreek,6/3/2018,6,4
+20,20,4i,APPR176-210,Rough,200,Green,12,0.715,Palmer,LaurelCreek,6/3/2018,6,3
+21,21,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,6/3/2018,6,2
+22,22,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,6/3/2018,6,1
+23,23,6i,Tee,Tee,160,Fairway,10,-0.19,Palmer,LaurelCreek,6/3/2018,7,3
+24,24,SW,Short Game,Fairway,10,Green,4,0.033,Palmer,LaurelCreek,6/3/2018,7,2
+25,25,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,6/3/2018,7,1
+26,26,3H,Tee,Tee,320,Fairway,100,-0.01,Palmer,LaurelCreek,6/3/2018,8,4
+27,27,9i,APPR<125,Fairway,100,Rough,15,-0.665,Palmer,LaurelCreek,6/3/2018,8,3
+28,28,LW,Short Game,Rough,15,Green,12,-0.24,Palmer,LaurelCreek,6/3/2018,8,2
+29,29,Putter,Green,Green,12,In the Hole,0,0.705,Palmer,LaurelCreek,6/3/2018,8,1
+30,30,Driver,Tee,Tee,495,Sand,300,-0.66,Palmer,LaurelCreek,6/3/2018,9,6
+31,31,7i,APPR210+,Sand,300,Fairway,160,0.06,Palmer,LaurelCreek,6/3/2018,9,5
+32,32,6i,APPR125-175,Fairway,160,Sand,20,-0.55,Palmer,LaurelCreek,6/3/2018,9,4
+33,33,LW,Short Game,Sand,20,Rough,17,-0.985,Palmer,LaurelCreek,6/3/2018,9,3
+34,34,LW,Short Game,Rough,17,Green,12,-0.19,Palmer,LaurelCreek,6/3/2018,9,2
+35,35,Putter,Green,Green,12,In the Hole,0,0.705,Palmer,LaurelCreek,6/3/2018,9,1
+36,36,Driver,Tee,Tee,400,Fairway,155,0.028,Palmer,LaurelCreek,6/3/2018,10,5
+37,37,8i,APPR125-175,Fairway,155,Sand,12,-0.488,Palmer,LaurelCreek,6/3/2018,10,4
+38,38,LW,Short Game,Sand,12,Green,12,-0.255,Palmer,LaurelCreek,6/3/2018,10,3
+39,39,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,6/3/2018,10,2
+40,40,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,6/3/2018,10,1
+41,41,6i,Tee,Tee,325,Fairway,150,-0.135,Palmer,LaurelCreek,6/3/2018,11,3
+42,42,9i,APPR125-175,Fairway,150,Green,7,0.502,Palmer,LaurelCreek,6/3/2018,11,2
+43,43,Putter,Green,Green,7,In the Hole,0,0.443,Palmer,LaurelCreek,6/3/2018,11,1
+44,44,Driver,Tee,Tee,420,Fairway,155,0.057,Palmer,LaurelCreek,6/3/2018,12,4
+45,45,8i,APPR125-175,Fairway,155,Green,10,0.337,Palmer,LaurelCreek,6/3/2018,12,3
+46,46,Putter,Green,Green,10,Green,2,-0.383,Palmer,LaurelCreek,6/3/2018,12,2
+47,47,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,6/3/2018,12,1
+48,48,3W,Tee,Tee,360,Fairway,90,0.15,Palmer,LaurelCreek,6/3/2018,13,3
+49,49,SW,APPR<125,Fairway,90,Green,7,0.327,Palmer,LaurelCreek,6/3/2018,13,2
+50,50,Putter,Green,Green,7,In the Hole,0,0.443,Palmer,LaurelCreek,6/3/2018,13,1
+51,51,7i,Tee,Tee,155,Green,4,0.838,Palmer,LaurelCreek,6/3/2018,14,2
+52,52,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,6/3/2018,14,1
+53,53,Driver,Tee,Tee,490,Fairway,235,-0.068,Palmer,LaurelCreek,6/3/2018,15,5
+54,54,3W,APPR210+,Fairway,235,Fairway,45,-0.212,Palmer,LaurelCreek,6/3/2018,15,4
+55,55,SW,Short Game,Fairway,45,Green,12,-0.075,Palmer,LaurelCreek,6/3/2018,15,3
+56,56,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,6/3/2018,15,2
+57,57,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,6/3/2018,15,1
+58,58,Driver,Tee,Tee,380,Rough,125,-0.138,Palmer,LaurelCreek,6/3/2018,16,4
+59,59,PW,APPR125-175,Rough,125,Green,10,0.472,Palmer,LaurelCreek,6/3/2018,16,3
+60,60,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,6/3/2018,16,2
+61,61,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,6/3/2018,16,1
+62,62,5i,Tee,Tee,190,Rough,25,-0.555,Palmer,LaurelCreek,6/3/2018,17,5
+63,63,LW,Short Game,Rough,25,Rough,25,-1,Palmer,LaurelCreek,6/3/2018,17,4
+64,64,LW,Short Game,Rough,25,Green,30,-0.333,Palmer,LaurelCreek,6/3/2018,17,3
+65,65,Putter,Green,Green,30,Green,2,-0.031,Palmer,LaurelCreek,6/3/2018,17,2
+66,66,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,6/3/2018,17,1
+67,67,3W,Tee,Tee,410,Fairway,152,0.058,Palmer,LaurelCreek,6/3/2018,18,4
+68,68,7i,APPR125-175,Fairway,152,Green,15,0.162,Palmer,LaurelCreek,6/3/2018,18,3
+69,69,Putter,Green,Green,15,Green,2,-0.219,Palmer,LaurelCreek,6/3/2018,18,2
+70,70,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,6/3/2018,18,1
+1,1,Driver,Tee,Tee,400,Rough,130,-0.125,Palmer,LaurelCreek,5/29/2018,1,5
+2,2,PW,APPR125-175,Rough,130,Fairway,20,-0.285,Palmer,LaurelCreek,5/29/2018,1,4
+3,3,SW,Short Game,Fairway,20,Green,20,-0.478,Palmer,LaurelCreek,5/29/2018,1,3
+4,4,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,5/29/2018,1,2
+5,5,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,5/29/2018,1,1
+6,6,3H,Tee,Tee,360,Fairway,135,0.025,Palmer,LaurelCreek,5/29/2018,2,4
+7,7,PW,APPR125-175,Fairway,135,Green,20,0.017,Palmer,LaurelCreek,5/29/2018,2,3
+8,8,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,5/29/2018,2,2
+9,9,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,5/29/2018,2,1
+10,10,PW,Tee,Tee,128,Sand,10,-0.448,Palmer,LaurelCreek,5/29/2018,3,5
+11,11,LW,Short Game,Sand,10,Sand,12,-1.02,Palmer,LaurelCreek,5/29/2018,3,4
+12,12,LW,Short Game,Sand,12,Green,30,-0.528,Palmer,LaurelCreek,5/29/2018,3,3
+13,13,Putter,Green,Green,30,Green,4,-0.169,Palmer,LaurelCreek,5/29/2018,3,2
+14,14,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,5/29/2018,3,1
+15,15,3W,Tee,Tee,350,Fairway,100,0.09,Palmer,LaurelCreek,5/29/2018,4,4
+16,16,LW,APPR<125,Fairway,100,Green,10,0.174,Palmer,LaurelCreek,5/29/2018,4,3
+17,17,Putter,Green,Green,10,Green,8,-0.889,Palmer,LaurelCreek,5/29/2018,4,2
+18,18,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,5/29/2018,4,1
+19,19,Driver,Tee,Tee,520,Rough,270,-0.245,Palmer,LaurelCreek,5/29/2018,5,6
+20,20,6i,APPR210+,Rough,270,Fairway,103,-0.022,Palmer,LaurelCreek,5/29/2018,5,5
+21,21,LW,APPR<125,Fairway,103,Green,50,-0.328,Palmer,LaurelCreek,5/29/2018,5,4
+22,22,Putter,Green,Green,50,Green,8,-0.38,Palmer,LaurelCreek,5/29/2018,5,3
+23,23,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,5/29/2018,5,2
+24,24,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,5,1
+25,25,Driver,Tee,Tee,410,Fairway,100,0.21,Palmer,LaurelCreek,5/29/2018,6,4
+26,26,LW,APPR<125,Fairway,100,Green,12,0.095,Palmer,LaurelCreek,5/29/2018,6,3
+27,27,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,5/29/2018,6,2
+28,28,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,6,1
+29,29,9i,Tee,Tee,150,Green,30,0.002,Palmer,LaurelCreek,5/29/2018,7,3
+30,30,Putter,Green,Green,30,Green,4,-0.169,Palmer,LaurelCreek,5/29/2018,7,2
+31,31,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,5/29/2018,7,1
+32,32,5i,Tee,Tee,310,Fairway,100,-0.05,Palmer,LaurelCreek,5/29/2018,8,4
+33,33,LW,APPR<125,Fairway,100,Green,15,0.01,Palmer,LaurelCreek,5/29/2018,8,3
+34,34,Putter,Green,Green,15,Green,1,-0.211,Palmer,LaurelCreek,5/29/2018,8,2
+35,35,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,8,1
+36,36,3H,Tee,Tee,480,Fairway,179,0.205,Palmer,LaurelCreek,5/29/2018,9,3
+37,37,6i,APPR176-210,Fairway,179,Green,22,0.172,Palmer,LaurelCreek,5/29/2018,9,2
+38,38,Putter,Green,Green,22,In the Hole,0,0.903,Palmer,LaurelCreek,5/29/2018,9,1
+39,39,Driver,Tee,Tee,410,Fairway,125,0.145,Palmer,LaurelCreek,5/29/2018,10,4
+40,40,AW,APPR125-175,Fairway,125,Green,20,-0.013,Palmer,LaurelCreek,5/29/2018,10,3
+41,41,Putter,Green,Green,20,Green,5,-0.378,Palmer,LaurelCreek,5/29/2018,10,2
+42,42,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,5/29/2018,10,1
+43,43,3H,Tee,Tee,330,Rough,105,-0.205,Palmer,LaurelCreek,5/29/2018,11,4
+44,44,LW,APPR<125,Rough,105,Rough,10,-0.305,Palmer,LaurelCreek,5/29/2018,11,3
+45,45,LW,Short Game,Rough,10,Green,4,0.193,Palmer,LaurelCreek,5/29/2018,11,2
+46,46,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,5/29/2018,11,1
+47,47,Driver,Tee,Tee,410,Fairway,160,0.03,Palmer,LaurelCreek,5/29/2018,12,5
+48,48,7i,APPR125-175,Fairway,160,Fairway,15,-0.31,Palmer,LaurelCreek,5/29/2018,12,4
+49,49,8i,Short Game,Fairway,15,Green,10,-0.336,Palmer,LaurelCreek,5/29/2018,12,3
+50,50,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,5/29/2018,12,2
+51,51,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,12,1
+52,52,Driver,Tee,Tee,375,Fairway,135,0.055,Palmer,LaurelCreek,5/29/2018,13,4
+53,53,9i,APPR125-175,Fairway,135,Green,10,0.269,Palmer,LaurelCreek,5/29/2018,13,3
+54,54,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,5/29/2018,13,2
+55,55,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,13,1
+56,56,7i,Tee,Tee,165,Rough,10,-0.335,Palmer,LaurelCreek,5/29/2018,14,3
+57,57,LW,Short Game,Rough,10,Green,5,0.084,Palmer,LaurelCreek,5/29/2018,14,2
+58,58,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,5/29/2018,14,1
+59,59,3W,Tee,Tee,490,Fairway,225,-0.003,Palmer,LaurelCreek,5/29/2018,15,4
+60,60,4i,APPR210+,Fairway,225,Rough,20,-0.237,Palmer,LaurelCreek,5/29/2018,15,3
+61,61,SW,Short Game,Rough,20,Green,8,0.075,Palmer,LaurelCreek,5/29/2018,15,2
+62,62,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,5/29/2018,15,1
+63,63,3W,Tee,Tee,360,Fairway,105,0.107,Palmer,LaurelCreek,5/29/2018,16,4
+64,64,AW,APPR<125,Fairway,105,Green,12,0.107,Palmer,LaurelCreek,5/29/2018,16,3
+65,65,Putter,Green,Green,12,Green,2,-0.304,Palmer,LaurelCreek,5/29/2018,16,2
+66,66,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,5/29/2018,16,1
+67,67,6i,Tee,Tee,190,Green,18,0.242,Palmer,LaurelCreek,5/29/2018,17,3
+68,68,Putter,Green,Green,18,Green,2,-0.161,Palmer,LaurelCreek,5/29/2018,17,2
+69,69,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,5/29/2018,17,1
+70,70,3W,Tee,Tee,407,Fairway,135,0.109,Palmer,LaurelCreek,5/29/2018,18,4
+71,71,PW,APPR125-175,Fairway,135,Green,10,0.269,Palmer,LaurelCreek,5/29/2018,18,3
+72,72,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,5/29/2018,18,2
+73,73,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,5/29/2018,18,1
+1,1,Driver,Tee,Tee,410,Fairway,160,0.03,Palmer,LaurelCreek,3/18/2018,1,6
+2,2,7i,APPR125-175,Fairway,160,Fairway,25,-0.48,Palmer,LaurelCreek,3/18/2018,1,5
+3,3,SW,Short Game,Fairway,25,Green,30,-0.518,Palmer,LaurelCreek,3/18/2018,1,4
+4,4,Putter,Green,Green,30,Green,7,-0.465,Palmer,LaurelCreek,3/18/2018,1,3
+5,5,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,3/18/2018,1,2
+6,6,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,1,1
+7,7,Driver,Tee,Tee,365,Fairway,130,0.05,Palmer,LaurelCreek,3/18/2018,2,5
+8,8,9i,APPR125-175,Fairway,130,Rough,15,-0.585,Palmer,LaurelCreek,3/18/2018,2,4
+9,9,LW,Short Game,Rough,15,Green,20,-0.413,Palmer,LaurelCreek,3/18/2018,2,3
+10,10,Putter,Green,Green,20,Green,4,-0.269,Palmer,LaurelCreek,3/18/2018,2,2
+11,11,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,3/18/2018,2,1
+12,12,8i,Tee,Tee,155,Green,10,0.359,Palmer,LaurelCreek,3/18/2018,3,3
+13,13,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,3/18/2018,3,2
+14,14,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,3,1
+15,15,Driver,Tee,Tee,391,Fairway,160,0.001,Palmer,LaurelCreek,3/18/2018,4,5
+16,16,7i,APPR125-175,Fairway,160,Green,35,-0.036,Palmer,LaurelCreek,3/18/2018,4,4
+17,17,Putter,Green,Green,35,Green,6,-0.341,Palmer,LaurelCreek,3/18/2018,4,3
+18,18,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,3/18/2018,4,2
+19,19,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,4,1
+20,20,Driver,Tee,Tee,503,Fairway,230,0.046,Palmer,LaurelCreek,3/18/2018,5,5
+21,21,3H,APPR210+,Fairway,230,Fairway,20,-0.015,Palmer,LaurelCreek,3/18/2018,5,4
+22,22,SW,Short Game,Fairway,20,Green,20,-0.478,Palmer,LaurelCreek,3/18/2018,5,3
+23,23,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,3/18/2018,5,2
+24,24,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,3/18/2018,5,1
+25,25,Driver,Tee,Tee,414,Sand,195,-0.499,Palmer,LaurelCreek,3/18/2018,6,6
+26,26,4i,APPR176-210,Sand,195,Rough,40,-0.268,Palmer,LaurelCreek,3/18/2018,6,5
+27,27,SW,Short Game,Rough,40,Green,25,-0.154,Palmer,LaurelCreek,3/18/2018,6,4
+28,28,Putter,Green,Green,25,Green,5,-0.322,Palmer,LaurelCreek,3/18/2018,6,3
+29,29,Putter,Green,Green,5,Green,1,-0.745,Palmer,LaurelCreek,3/18/2018,6,2
+30,30,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,6,1
+31,31,4i,Tee,Tee,195,Sand,20,-0.425,Palmer,LaurelCreek,3/18/2018,7,3
+32,32,SW,Short Game,Sand,20,Green,6,0.173,Palmer,LaurelCreek,3/18/2018,7,2
+33,33,Putter,Green,Green,6,In the Hole,0,0.357,Palmer,LaurelCreek,3/18/2018,7,1
+34,34,3H,Tee,Tee,339,Fairway,105,0.044,Palmer,LaurelCreek,3/18/2018,8,4
+35,35,SW,APPR<125,Fairway,105,Rough,30,-0.888,Palmer,LaurelCreek,3/18/2018,8,3
+36,36,SW,Short Game,Rough,30,Green,4,0.553,Palmer,LaurelCreek,3/18/2018,8,2
+37,37,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,3/18/2018,8,1
+38,38,Driver,Tee,Tee,535,Fairway,200,0.435,Palmer,LaurelCreek,3/18/2018,9,6
+39,39,4i,APPR176-210,Fairway,200,Sand,25,-0.405,Palmer,LaurelCreek,3/18/2018,9,5
+40,40,LW,Short Game,Sand,25,Sand,15,-0.885,Palmer,LaurelCreek,3/18/2018,9,4
+41,41,LW,Short Game,Sand,15,Green,14,-0.285,Palmer,LaurelCreek,3/18/2018,9,3
+42,42,Putter,Green,Green,14,Green,2,-0.244,Palmer,LaurelCreek,3/18/2018,9,2
+43,43,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,3/18/2018,9,1
+44,44,Driver,Tee,Tee,404,Fairway,150,0.053,Palmer,LaurelCreek,3/18/2018,10,4
+45,45,7i,APPR125-175,Fairway,150,Green,20,0.067,Palmer,LaurelCreek,3/18/2018,10,3
+46,46,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,3/18/2018,10,2
+47,47,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,3/18/2018,10,1
+48,48,3W,Tee,Tee,385,Penalty,385,-2,Palmer,LaurelCreek,3/18/2018,11,6
+49,49,Penalty,Penalty,Penalty,385,Penalty,0,0,Palmer,LaurelCreek,3/18/2018,11,5
+50,50,3W,Tee,Tee,385,Fairway,130,0.09,Palmer,LaurelCreek,3/18/2018,11,4
+51,51,9i,APPR125-175,Fairway,130,Green,20,0.002,Palmer,LaurelCreek,3/18/2018,11,3
+52,52,Putter,Green,Green,20,Green,4,-0.269,Palmer,LaurelCreek,3/18/2018,11,2
+53,53,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,3/18/2018,11,1
+54,54,Driver,Tee,Tee,420,Fairway,190,-0.115,Palmer,LaurelCreek,3/18/2018,12,4
+55,55,4i,APPR176-210,Fairway,190,Rough,20,-0.455,Palmer,LaurelCreek,3/18/2018,12,3
+56,56,SW,Short Game,Rough,20,Green,5,0.334,Palmer,LaurelCreek,3/18/2018,12,2
+57,57,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,3/18/2018,12,1
+58,58,Driver,Tee,Tee,374,Fairway,155,-0.014,Palmer,LaurelCreek,3/18/2018,13,5
+59,59,7i,APPR125-175,Fairway,155,Green,30,-0.016,Palmer,LaurelCreek,3/18/2018,13,4
+60,60,Putter,Green,Green,30,Green,7,-0.465,Palmer,LaurelCreek,3/18/2018,13,3
+61,61,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,3/18/2018,13,2
+62,62,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,13,1
+63,63,8i,Tee,Tee,155,Rough,15,-0.48,Palmer,LaurelCreek,3/18/2018,14,3
+64,64,SW,Short Game,Rough,15,Green,3,0.412,Palmer,LaurelCreek,3/18/2018,14,2
+65,65,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,3/18/2018,14,1
+66,66,Driver,Tee,Tee,510,Penalty,510,-2,Palmer,LaurelCreek,3/18/2018,15,7
+67,67,Penalty,Penalty,Penalty,510,Penalty,0,0,Palmer,LaurelCreek,3/18/2018,15,6
+68,68,Driver,Tee,Tee,510,Rough,245,-0.185,Palmer,LaurelCreek,3/18/2018,15,5
+69,69,3H,APPR210+,Rough,245,Rough,60,-0.245,Palmer,LaurelCreek,3/18/2018,15,4
+70,70,SW,Short Game,Rough,60,Green,25,-0.024,Palmer,LaurelCreek,3/18/2018,15,3
+71,71,Putter,Green,Green,25,Green,3,-0.119,Palmer,LaurelCreek,3/18/2018,15,2
+72,72,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,3/18/2018,15,1
+73,73,Driver,Tee,Tee,405,Fairway,142,0.083,Palmer,LaurelCreek,3/18/2018,16,4
+74,74,9i,APPR125-175,Fairway,142,Green,7,0.474,Palmer,LaurelCreek,3/18/2018,16,3
+75,75,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,3/18/2018,16,2
+76,76,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,16,1
+77,77,4i,Tee,Tee,209,Green,30,0.169,Palmer,LaurelCreek,3/18/2018,17,4
+78,78,Putter,Green,Green,30,Green,6,-0.379,Palmer,LaurelCreek,3/18/2018,17,3
+79,79,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,3/18/2018,17,2
+80,80,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,17,1
+81,81,3W,Tee,Tee,410,Fairway,175,-0.045,Palmer,LaurelCreek,3/18/2018,18,4
+82,82,6i,APPR176-210,Fairway,175,Green,14,0.29,Palmer,LaurelCreek,3/18/2018,18,3
+83,83,Putter,Green,Green,14,Green,1,-0.236,Palmer,LaurelCreek,3/18/2018,18,2
+84,84,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,3/18/2018,18,1
+1,1,Driver,Tee,Tee,410,Fairway,150,0.065,Palmer,LaurelCreek,2/26/2018,1,5
+2,2,8i,APPR125-175,Fairway,150,Green,30,-0.033,Palmer,LaurelCreek,2/26/2018,1,4
+3,3,Putter,Green,Green,30,Green,6,-0.379,Palmer,LaurelCreek,2/26/2018,1,3
+4,4,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,2/26/2018,1,2
+5,5,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,2/26/2018,1,1
+6,6,Driver,Tee,Tee,349,Sand,100,-0.343,Palmer,LaurelCreek,2/26/2018,2,5
+7,7,AW,APPR<125,Sand,100,Rough,15,-0.235,Palmer,LaurelCreek,2/26/2018,2,4
+8,8,SW,Short Game,Rough,15,Green,7,0.022,Palmer,LaurelCreek,2/26/2018,2,3
+9,9,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,2/26/2018,2,2
+10,10,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,2/26/2018,2,1
+11,11,7i,Tee,Tee,162,Green,30,0.018,Palmer,LaurelCreek,2/26/2018,3,3
+12,12,Putter,Green,Green,30,Green,2,-0.031,Palmer,LaurelCreek,2/26/2018,3,2
+13,13,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,2/26/2018,3,1
+14,14,3W,Tee,Tee,355,Rough,139,-0.241,Palmer,LaurelCreek,2/26/2018,4,4
+15,15,9i,APPR125-175,Rough,139,Green,20,0.269,Palmer,LaurelCreek,2/26/2018,4,3
+16,16,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,2/26/2018,4,2
+17,17,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,2/26/2018,4,1
+18,18,Driver,Tee,Tee,503,Rough,290,-0.434,Palmer,LaurelCreek,2/26/2018,5,5
+19,19,4i,APPR210+,Rough,290,Fairway,90,0.095,Palmer,LaurelCreek,2/26/2018,5,4
+20,20,LW,APPR<125,Fairway,90,Green,25,-0.164,Palmer,LaurelCreek,2/26/2018,5,3
+21,21,Putter,Green,Green,25,Green,2,-0.075,Palmer,LaurelCreek,2/26/2018,5,2
+22,22,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,2/26/2018,5,1
+23,23,Driver,Tee,Tee,400,Fairway,155,0.028,Palmer,LaurelCreek,2/26/2018,6,5
+24,24,8i,APPR125-175,Fairway,155,Green,25,0.028,Palmer,LaurelCreek,2/26/2018,6,4
+25,25,Putter,Green,Green,25,Green,6,-0.423,Palmer,LaurelCreek,2/26/2018,6,3
+26,26,Putter,Green,Green,6,Green,1,-0.644,Palmer,LaurelCreek,2/26/2018,6,2
+27,27,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,2/26/2018,6,1
+28,28,6i,Tee,Tee,174,Rough,15,-0.433,Palmer,LaurelCreek,2/26/2018,7,4
+29,29,LW,Short Game,Rough,15,Green,15,-0.325,Palmer,LaurelCreek,2/26/2018,7,3
+30,30,Putter,Green,Green,15,Green,2,-0.219,Palmer,LaurelCreek,2/26/2018,7,2
+31,31,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,2/26/2018,7,1
+32,32,3H,Tee,Tee,339,Fairway,110,0.032,Palmer,LaurelCreek,2/26/2018,8,4
+33,33,SW,APPR<125,Fairway,110,Rough,15,-0.64,Palmer,LaurelCreek,2/26/2018,8,3
+34,34,SW,Short Game,Rough,15,Green,4,0.318,Palmer,LaurelCreek,2/26/2018,8,2
+35,35,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,2/26/2018,8,1
+36,36,Driver,Tee,Tee,495,Fairway,255,-0.168,Palmer,LaurelCreek,2/26/2018,9,4
+37,37,3H,APPR210+,Fairway,255,Green,25,0.614,Palmer,LaurelCreek,2/26/2018,9,3
+38,38,Putter,Green,Green,25,Green,3,-0.119,Palmer,LaurelCreek,2/26/2018,9,2
+39,39,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,2/26/2018,9,1
+40,40,Driver,Tee,Tee,404,Fairway,150,0.053,Palmer,LaurelCreek,2/26/2018,10,3
+41,41,8i,APPR125-175,Fairway,150,Green,10,0.319,Palmer,LaurelCreek,2/26/2018,10,2
+42,42,Putter,Green,Green,10,In the Hole,0,0.626,Palmer,LaurelCreek,2/26/2018,10,1
+43,43,3H,Tee,Tee,342,Penalty,145,-1.0615,Palmer,LaurelCreek,2/26/2018,11,5
+44,44,Penalty,Penalty,Penalty,145,Penalty,0,0,Palmer,LaurelCreek,2/26/2018,11,4
+45,45,9i,APPR125-175,Fairway,145,Fairway,15,-0.362,Palmer,LaurelCreek,2/26/2018,11,3
+46,46,SW,Short Game,Fairway,15,Green,3,0.237,Palmer,LaurelCreek,2/26/2018,11,2
+47,47,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,2/26/2018,11,1
+48,48,Driver,Tee,Tee,420,Fairway,190,-0.115,Palmer,LaurelCreek,2/26/2018,12,4
+49,49,5i,APPR176-210,Fairway,190,Rough,30,-0.565,Palmer,LaurelCreek,2/26/2018,12,3
+50,50,SW,Short Game,Rough,30,Green,8,0.185,Palmer,LaurelCreek,2/26/2018,12,2
+51,51,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,2/26/2018,12,1
+52,52,Driver,Tee,Tee,374,Rough,145,-0.222,Palmer,LaurelCreek,2/26/2018,13,5
+53,53,9i,APPR125-175,Rough,145,Sand,15,-0.31,Palmer,LaurelCreek,2/26/2018,13,4
+54,54,LW,Short Game,Sand,15,Green,12,-0.225,Palmer,LaurelCreek,2/26/2018,13,3
+55,55,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,2/26/2018,13,2
+56,56,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,2/26/2018,13,1
+57,57,7i,Tee,Tee,163,Green,18,0.151,Palmer,LaurelCreek,2/26/2018,14,3
+58,58,Putter,Green,Green,18,Green,4,-0.299,Palmer,LaurelCreek,2/26/2018,14,2
+59,59,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,2/26/2018,14,1
+60,60,Driver,Tee,Tee,466,Fairway,230,-0.179,Palmer,LaurelCreek,2/26/2018,15,4
+61,61,3H,APPR210+,Fairway,230,Rough,15,-0.08,Palmer,LaurelCreek,2/26/2018,15,3
+62,62,SW,Short Game,Rough,15,Green,6,0.108,Palmer,LaurelCreek,2/26/2018,15,2
+63,63,Putter,Green,Green,6,In the Hole,0,0.357,Palmer,LaurelCreek,2/26/2018,15,1
+64,64,3W,Tee,Tee,368,Fairway,160,-0.044,Palmer,LaurelCreek,2/26/2018,16,4
+65,65,8i,APPR125-175,Fairway,160,Green,15,0.19,Palmer,LaurelCreek,2/26/2018,16,3
+66,66,Putter,Green,Green,15,Green,2,-0.219,Palmer,LaurelCreek,2/26/2018,16,2
+67,67,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,2/26/2018,16,1
+68,68,4i,Tee,Tee,205,Rough,110,-0.915,Palmer,LaurelCreek,2/26/2018,17,3
+69,69,SW,APPR<125,Rough,110,Green,5,0.794,Palmer,LaurelCreek,2/26/2018,17,2
+70,70,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,2/26/2018,17,1
+71,71,Driver,Tee,Tee,410,Fairway,155,0.047,Palmer,LaurelCreek,2/26/2018,18,5
+72,72,8i,APPR125-175,Fairway,155,Fairway,15,-0.328,Palmer,LaurelCreek,2/26/2018,18,4
+73,73,LW,Short Game,Fairway,15,Green,20,-0.588,Palmer,LaurelCreek,2/26/2018,18,3
+74,74,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,2/26/2018,18,2
+75,75,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,2/26/2018,18,1
+1,1,Driver,Tee,Tee,410,Fairway,150,0.065,Palmer,LaurelCreek,4/4/2018,1,5
+2,2,8i,APPR125-175,Fairway,150,Green,30,-0.033,Palmer,LaurelCreek,4/4/2018,1,4
+3,3,Putter,Green,Green,30,Green,15,-0.812,Palmer,LaurelCreek,4/4/2018,1,3
+4,4,Putter,Green,Green,15,Green,3,-0.263,Palmer,LaurelCreek,4/4/2018,1,2
+5,5,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,4/4/2018,1,1
+6,6,Driver,Tee,Tee,365,Fairway,144,0.006,Palmer,LaurelCreek,4/4/2018,2,5
+7,7,8i,APPR125-175,Fairway,144,Green,35,-0.092,Palmer,LaurelCreek,4/4/2018,2,4
+8,8,Putter,Green,Green,35,Green,12,-0.689,Palmer,LaurelCreek,4/4/2018,2,3
+9,9,Putter,Green,Green,12,Green,2,-0.304,Palmer,LaurelCreek,4/4/2018,2,2
+10,10,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,4/4/2018,2,1
+11,11,8i,Tee,Tee,153,Fairway,25,-0.477,Palmer,LaurelCreek,4/4/2018,3,4
+12,12,LW,Short Game,Fairway,25,Green,8,-0.055,Palmer,LaurelCreek,4/4/2018,3,3
+13,13,Putter,Green,Green,8,Green,1,-0.486,Palmer,LaurelCreek,4/4/2018,3,2
+14,14,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,3,1
+15,15,Driver,Tee,Tee,390,Fairway,160,0,Palmer,LaurelCreek,4/4/2018,4,5
+16,16,7i,APPR125-175,Fairway,160,Green,15,0.19,Palmer,LaurelCreek,4/4/2018,4,4
+17,17,Putter,Green,Green,15,Green,5,-0.466,Palmer,LaurelCreek,4/4/2018,4,3
+18,18,Putter,Green,Green,5,Green,1,-0.745,Palmer,LaurelCreek,4/4/2018,4,2
+19,19,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,4,1
+20,20,Driver,Tee,Tee,510,Rough,237,-0.143,Palmer,LaurelCreek,4/4/2018,5,4
+21,21,4i,APPR210+,Rough,237,Fairway,15,0.333,Palmer,LaurelCreek,4/4/2018,5,3
+22,22,LW,Short Game,Fairway,15,Green,5,0.034,Palmer,LaurelCreek,4/4/2018,5,2
+23,23,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,4/4/2018,5,1
+24,24,Driver,Tee,Tee,420,Fairway,195,-0.143,Palmer,LaurelCreek,4/4/2018,6,4
+25,25,4i,APPR176-210,Fairway,195,Fairway,20,-0.237,Palmer,LaurelCreek,4/4/2018,6,3
+26,26,LW,Short Game,Fairway,20,Green,10,-0.226,Palmer,LaurelCreek,4/4/2018,6,2
+27,27,Putter,Green,Green,10,In the Hole,0,0.626,Palmer,LaurelCreek,4/4/2018,6,1
+28,28,3H,Tee,Tee,195,Green,45,0.011,Palmer,LaurelCreek,4/4/2018,7,3
+29,29,Putter,Green,Green,45,Green,8,-0.421,Palmer,LaurelCreek,4/4/2018,7,2
+30,30,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,4/4/2018,7,1
+31,31,3H,Tee,Tee,365,Rough,160,-0.3,Palmer,LaurelCreek,4/4/2018,8,5
+32,32,PW,APPR125-175,Rough,160,Rough,145,-0.94,Palmer,LaurelCreek,4/4/2018,8,4
+33,33,9i,APPR125-175,Rough,145,Green,40,0.115,Palmer,LaurelCreek,4/4/2018,8,3
+34,34,Putter,Green,Green,40,Green,5,-0.201,Palmer,LaurelCreek,4/4/2018,8,2
+35,35,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,4/4/2018,8,1
+36,36,Driver,Tee,Tee,510,Fairway,230,0.095,Palmer,LaurelCreek,4/4/2018,9,7
+37,37,3H,APPR210+,Fairway,230,Fairway,230,-1,Palmer,LaurelCreek,4/4/2018,9,6
+38,38,3H,APPR210+,Fairway,230,Fairway,145,-0.543,Palmer,LaurelCreek,4/4/2018,9,5
+39,39,8i,APPR125-175,Fairway,145,Rough,15,-0.537,Palmer,LaurelCreek,4/4/2018,9,4
+40,40,LW,Short Game,Rough,15,Green,7,0.022,Palmer,LaurelCreek,4/4/2018,9,3
+41,41,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,4/4/2018,9,2
+42,42,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,9,1
+43,43,Driver,Tee,Tee,410,Fairway,155,0.047,Palmer,LaurelCreek,4/4/2018,10,4
+44,44,7i,APPR125-175,Fairway,155,Green,20,0.085,Palmer,LaurelCreek,4/4/2018,10,3
+45,45,Putter,Green,Green,20,Green,4,-0.269,Palmer,LaurelCreek,4/4/2018,10,2
+46,46,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,4/4/2018,10,1
+47,47,3W,Tee,Tee,385,Fairway,150,0.025,Palmer,LaurelCreek,4/4/2018,11,6
+48,48,8i,APPR125-175,Fairway,150,Sand,25,-0.65,Palmer,LaurelCreek,4/4/2018,11,5
+49,49,LW,Short Game,Sand,25,Sand,15,-0.885,Palmer,LaurelCreek,4/4/2018,11,4
+50,50,LW,Short Game,Sand,15,Rough,10,-0.86,Palmer,LaurelCreek,4/4/2018,11,3
+51,51,LW,Short Game,Rough,10,Green,8,-0.175,Palmer,LaurelCreek,4/4/2018,11,2
+52,52,Putter,Green,Green,8,In the Hole,0,0.515,Palmer,LaurelCreek,4/4/2018,11,1
+53,53,Driver,Tee,Tee,425,Fairway,195,-0.127,Palmer,LaurelCreek,4/4/2018,12,4
+54,54,4i,APPR176-210,Fairway,195,Green,7,0.72,Palmer,LaurelCreek,4/4/2018,12,3
+55,55,Putter,Green,Green,7,Green,1,-0.558,Palmer,LaurelCreek,4/4/2018,12,2
+56,56,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,12,1
+57,57,Driver,Tee,Tee,365,Rough,163,-0.312,Palmer,LaurelCreek,4/4/2018,13,4
+58,58,7i,APPR125-175,Rough,163,Green,20,0.364,Palmer,LaurelCreek,4/4/2018,13,3
+59,59,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,4/4/2018,13,2
+60,60,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,4/4/2018,13,1
+61,61,7i,Tee,Tee,170,Green,12,0.315,Palmer,LaurelCreek,4/4/2018,14,3
+62,62,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,4/4/2018,14,2
+63,63,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,14,1
+64,64,Driver,Tee,Tee,495,Fairway,270,-0.235,Palmer,LaurelCreek,4/4/2018,15,5
+65,65,3W,APPR210+,Fairway,270,Fairway,50,-0.045,Palmer,LaurelCreek,4/4/2018,15,4
+66,66,LW,Short Game,Fairway,50,Green,10,0.034,Palmer,LaurelCreek,4/4/2018,15,3
+67,67,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,4/4/2018,15,2
+68,68,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,4/4/2018,15,1
+69,69,Driver,Tee,Tee,410,Fairway,185,-0.098,Palmer,LaurelCreek,4/4/2018,16,4
+70,70,6i,APPR176-210,Fairway,185,Green,15,0.317,Palmer,LaurelCreek,4/4/2018,16,3
+71,71,Putter,Green,Green,15,Green,2,-0.219,Palmer,LaurelCreek,4/4/2018,16,2
+72,72,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,4/4/2018,16,1
+73,73,4i,Tee,Tee,195,Rough,15,-0.36,Palmer,LaurelCreek,4/4/2018,17,3
+74,74,SW,Short Game,Rough,15,Green,5,0.209,Palmer,LaurelCreek,4/4/2018,17,2
+75,75,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,4/4/2018,17,1
+76,76,Driver,Tee,Tee,405,Fairway,147,0.066,Palmer,LaurelCreek,4/4/2018,18,4
+77,77,8i,APPR125-175,Fairway,147,Green,35,-0.082,Palmer,LaurelCreek,4/4/2018,18,3
+78,78,Putter,Green,Green,35,Green,5,-0.24,Palmer,LaurelCreek,4/4/2018,18,2
+79,79,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,4/4/2018,18,1
+1,1,Driver,Tee,Tee,390,Rough,80,0.02,Medal,LaurelCreek,3/4/2018,1,4
+2,2,LW,APPR<125,Rough,80,Green,6,0.603,Medal,LaurelCreek,3/4/2018,1,3
+3,3,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,3/4/2018,1,2
+4,4,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,1,1
+5,5,Driver,Tee,Tee,349,Fairway,120,0.037,Medal,LaurelCreek,3/4/2018,2,4
+6,6,AW,APPR<125,Fairway,120,Green,25,-0.084,Medal,LaurelCreek,3/4/2018,2,3
+7,7,Putter,Green,Green,25,Green,3,-0.119,Medal,LaurelCreek,3/4/2018,2,2
+8,8,Putter,Green,Green,3,In the Hole,0,0.053,Medal,LaurelCreek,3/4/2018,2,1
+9,9,AW,Tee,Tee,125,Sand,10,-0.445,Medal,LaurelCreek,3/4/2018,3,4
+10,10,LW,Short Game,Sand,10,Green,10,-0.196,Medal,LaurelCreek,3/4/2018,3,3
+11,11,Putter,Green,Green,10,Green,3,-0.427,Medal,LaurelCreek,3/4/2018,3,2
+12,12,Putter,Green,Green,3,In the Hole,0,0.053,Medal,LaurelCreek,3/4/2018,3,1
+13,13,Driver,Tee,Tee,355,Fairway,120,0.055,Medal,LaurelCreek,3/4/2018,4,4
+14,14,AW,APPR<125,Fairway,120,Green,20,-0.028,Medal,LaurelCreek,3/4/2018,4,3
+15,15,Putter,Green,Green,20,Green,5,-0.378,Medal,LaurelCreek,3/4/2018,4,2
+16,16,Putter,Green,Green,5,In the Hole,0,0.256,Medal,LaurelCreek,3/4/2018,4,1
+17,17,Driver,Tee,Tee,482,Fairway,250,-0.221,Medal,LaurelCreek,3/4/2018,5,4
+18,18,3H,APPR210+,Fairway,250,Green,30,0.537,Medal,LaurelCreek,3/4/2018,5,3
+19,19,Putter,Green,Green,30,Green,3,-0.075,Medal,LaurelCreek,3/4/2018,5,2
+20,20,Putter,Green,Green,3,In the Hole,0,0.053,Medal,LaurelCreek,3/4/2018,5,1
+21,21,Driver,Tee,Tee,400,Fairway,202,-0.213,Medal,LaurelCreek,3/4/2018,6,5
+22,22,4i,APPR176-210,Fairway,202,Fairway,20,-0.197,Medal,LaurelCreek,3/4/2018,6,4
+23,23,SW,Short Game,Fairway,20,Green,6,0.043,Medal,LaurelCreek,3/4/2018,6,3
+24,24,Putter,Green,Green,6,Green,2,-0.652,Medal,LaurelCreek,3/4/2018,6,2
+25,25,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,3/4/2018,6,1
+26,26,6i,Tee,Tee,155,Sand,10,-0.445,Medal,LaurelCreek,3/4/2018,7,4
+27,27,LW,Short Game,Sand,10,Green,9,-0.145,Medal,LaurelCreek,3/4/2018,7,3
+28,28,Putter,Green,Green,9,Green,1,-0.426,Medal,LaurelCreek,3/4/2018,7,2
+29,29,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,7,1
+30,30,3H,Tee,Tee,311,Fairway,120,-0.096,Medal,LaurelCreek,3/4/2018,8,4
+31,31,AW,APPR<125,Fairway,120,Green,20,-0.028,Medal,LaurelCreek,3/4/2018,8,3
+32,32,Putter,Green,Green,20,Green,2,-0.131,Medal,LaurelCreek,3/4/2018,8,2
+33,33,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,3/4/2018,8,1
+34,34,Driver,Tee,Tee,495,Fairway,205,0.157,Medal,LaurelCreek,3/4/2018,9,7
+35,35,3H,APPR176-210,Fairway,205,Penalty,205,-2.0075,Medal,LaurelCreek,3/4/2018,9,6
+36,36,Penalty,Penalty,Penalty,205,Penalty,0,0,Medal,LaurelCreek,3/4/2018,9,5
+37,37,6i,APPR125-175,Rough,160,Sand,20,-0.3,Medal,LaurelCreek,3/4/2018,9,4
+38,38,LW,Short Game,Sand,20,Green,6,0.173,Medal,LaurelCreek,3/4/2018,9,3
+39,39,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,3/4/2018,9,2
+40,40,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,9,1
+41,41,Driver,Tee,Tee,400,Fairway,180,-0.09,Medal,LaurelCreek,3/4/2018,10,5
+42,42,4i,APPR176-210,Fairway,180,Rough,10,-0.26,Medal,LaurelCreek,3/4/2018,10,4
+43,43,LW,Short Game,Rough,10,Green,7,-0.103,Medal,LaurelCreek,3/4/2018,10,3
+44,44,Putter,Green,Green,7,Green,1,-0.558,Medal,LaurelCreek,3/4/2018,10,2
+45,45,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,10,1
+46,46,3H,Tee,Tee,342,Rough,90,-0.124,Medal,LaurelCreek,3/4/2018,11,4
+47,47,LW,APPR<125,Rough,90,Green,6,0.633,Medal,LaurelCreek,3/4/2018,11,3
+48,48,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,3/4/2018,11,2
+49,49,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,11,1
+50,50,Driver,Tee,Tee,412,Fairway,165,0.007,Medal,LaurelCreek,3/4/2018,12,6
+51,51,7i,APPR125-175,Fairway,165,Fairway,25,-0.455,Medal,LaurelCreek,3/4/2018,12,5
+52,52,SW,Short Game,Fairway,25,Green,15,-0.33,Medal,LaurelCreek,3/4/2018,12,4
+53,53,Putter,Green,Green,15,Green,6,-0.567,Medal,LaurelCreek,3/4/2018,12,3
+54,54,Putter,Green,Green,6,Green,1,-0.644,Medal,LaurelCreek,3/4/2018,12,2
+55,55,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,12,1
+56,56,Driver,Tee,Tee,360,Fairway,125,0.055,Medal,LaurelCreek,3/4/2018,13,5
+57,57,AW,APPR125-175,Fairway,125,Sand,10,-0.565,Medal,LaurelCreek,3/4/2018,13,4
+58,58,LW,Short Game,Sand,10,Green,12,-0.275,Medal,LaurelCreek,3/4/2018,13,3
+59,59,Putter,Green,Green,12,Green,2,-0.304,Medal,LaurelCreek,3/4/2018,13,2
+60,60,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,3/4/2018,13,1
+61,61,PW,Tee,Tee,145,Green,20,0.097,Medal,LaurelCreek,3/4/2018,14,3
+62,62,Putter,Green,Green,20,Green,2,-0.131,Medal,LaurelCreek,3/4/2018,14,2
+63,63,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,3/4/2018,14,1
+64,64,Driver,Tee,Tee,466,Fairway,210,-0.049,Medal,LaurelCreek,3/4/2018,15,6
+65,65,3H,APPR210+,Fairway,210,Rough,25,-0.39,Medal,LaurelCreek,3/4/2018,15,5
+66,66,SW,Short Game,Rough,25,Rough,20,-0.945,Medal,LaurelCreek,3/4/2018,15,4
+67,67,SW,Short Game,Rough,20,Green,7,0.147,Medal,LaurelCreek,3/4/2018,15,3
+68,68,Putter,Green,Green,7,Green,1,-0.558,Medal,LaurelCreek,3/4/2018,15,2
+69,69,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,15,1
+70,70,Driver,Tee,Tee,368,Fairway,145,0.008,Medal,LaurelCreek,3/4/2018,16,4
+71,71,PW,APPR125-175,Fairway,145,Green,20,0.05,Medal,LaurelCreek,3/4/2018,16,3
+72,72,Putter,Green,Green,20,Green,2,-0.131,Medal,LaurelCreek,3/4/2018,16,2
+73,73,Putter,Green,Green,2,In the Hole,0,0.009,Medal,LaurelCreek,3/4/2018,16,1
+74,74,3H,Tee,Tee,194,Rough,20,-0.488,Medal,LaurelCreek,3/4/2018,17,5
+75,75,8i,Short Game,Rough,20,Rough,18,-0.95,Medal,LaurelCreek,3/4/2018,17,4
+76,76,8i,Short Game,Rough,18,Rough,15,-0.925,Medal,LaurelCreek,3/4/2018,17,3
+77,77,LW,Short Game,Rough,15,Green,8,-0.05,Medal,LaurelCreek,3/4/2018,17,2
+78,78,Putter,Green,Green,8,In the Hole,0,0.515,Medal,LaurelCreek,3/4/2018,17,1
+79,79,Driver,Tee,Tee,407,Fairway,130,0.124,Medal,LaurelCreek,3/4/2018,18,5
+80,80,PW,APPR125-175,Fairway,130,Rough,14,-0.56,Medal,LaurelCreek,3/4/2018,18,4
+81,81,SW,Short Game,Rough,14,Green,7,-0.003,Medal,LaurelCreek,3/4/2018,18,3
+82,82,Putter,Green,Green,7,Green,1,-0.558,Medal,LaurelCreek,3/4/2018,18,2
+83,83,Putter,Green,Green,1,In the Hole,0,0.001,Medal,LaurelCreek,3/4/2018,18,1
+1,1,Driver,Tee,Tee,410,Fairway,150,0.065,Palmer,LaurelCreek,1/26/2018,1,4
+2,2,8i,APPR125-175,Fairway,150,Fairway,20,-0.455,Palmer,LaurelCreek,1/26/2018,1,3
+3,3,SW,Short Game,Fairway,20,Green,4,0.253,Palmer,LaurelCreek,1/26/2018,1,2
+4,4,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,1,1
+5,5,Driver,Tee,Tee,365,Rough,125,-0.168,Palmer,LaurelCreek,1/26/2018,2,5
+6,6,AW,APPR125-175,Rough,125,Green,35,0.082,Palmer,LaurelCreek,1/26/2018,2,4
+7,7,Putter,Green,Green,35,Green,12,-0.689,Palmer,LaurelCreek,1/26/2018,2,3
+8,8,Putter,Green,Green,12,Green,3,-0.348,Palmer,LaurelCreek,1/26/2018,2,2
+9,9,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,1/26/2018,2,1
+10,10,6i,Tee,Tee,150,Fairway,20,-0.42,Palmer,LaurelCreek,1/26/2018,3,4
+11,11,SW,Short Game,Fairway,20,Green,9,-0.175,Palmer,LaurelCreek,1/26/2018,3,3
+12,12,Putter,Green,Green,9,Green,1,-0.426,Palmer,LaurelCreek,1/26/2018,3,2
+13,13,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,1/26/2018,3,1
+14,14,Driver,Tee,Tee,391,Fairway,175,-0.074,Palmer,LaurelCreek,1/26/2018,4,4
+15,15,4i,APPR176-210,Fairway,175,Green,15,0.265,Palmer,LaurelCreek,1/26/2018,4,3
+16,16,Putter,Green,Green,15,Green,4,-0.357,Palmer,LaurelCreek,1/26/2018,4,2
+17,17,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,4,1
+18,18,Driver,Tee,Tee,503,Fairway,280,-0.219,Palmer,LaurelCreek,1/26/2018,5,5
+19,19,3H,APPR210+,Fairway,280,Fairway,80,-0.1,Palmer,LaurelCreek,1/26/2018,5,4
+20,20,SW,APPR<125,Fairway,80,Green,20,-0.128,Palmer,LaurelCreek,1/26/2018,5,3
+21,21,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,1/26/2018,5,2
+22,22,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,1/26/2018,5,1
+23,23,Driver,Tee,Tee,414,Sand,205,-0.574,Palmer,LaurelCreek,1/26/2018,6,4
+24,24,5i,APPR176-210,Sand,205,Fairway,45,-0.042,Palmer,LaurelCreek,1/26/2018,6,3
+25,25,SW,Short Game,Fairway,45,Green,4,0.483,Palmer,LaurelCreek,1/26/2018,6,2
+26,26,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,6,1
+27,27,5i,Tee,Tee,205,Rough,40,-0.645,Palmer,LaurelCreek,1/26/2018,7,5
+28,28,SW,Short Game,Rough,40,Rough,15,-0.685,Palmer,LaurelCreek,1/26/2018,7,4
+29,29,SW,Short Game,Rough,15,Green,8,-0.05,Palmer,LaurelCreek,1/26/2018,7,3
+30,30,Putter,Green,Green,8,Green,2,-0.494,Palmer,LaurelCreek,1/26/2018,7,2
+31,31,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,1/26/2018,7,1
+32,32,4i,Tee,Tee,339,Rough,125,-0.241,Palmer,LaurelCreek,1/26/2018,8,3
+33,33,AW,APPR125-175,Rough,125,Green,9,0.523,Palmer,LaurelCreek,1/26/2018,8,2
+34,34,Putter,Green,Green,9,In the Hole,0,0.575,Palmer,LaurelCreek,1/26/2018,8,1
+35,35,Driver,Tee,Tee,535,Rough,265,-0.138,Palmer,LaurelCreek,1/26/2018,9,5
+36,36,3H,APPR210+,Rough,265,Fairway,30,0.243,Palmer,LaurelCreek,1/26/2018,9,4
+37,37,SW,Short Game,Fairway,30,Green,10,-0.106,Palmer,LaurelCreek,1/26/2018,9,3
+38,38,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,1/26/2018,9,2
+39,39,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,1/26/2018,9,1
+40,40,Driver,Tee,Tee,404,Sand,163,-0.3,Palmer,LaurelCreek,1/26/2018,10,4
+41,41,7i,APPR125-175,Sand,163,Fairway,30,-0.222,Palmer,LaurelCreek,1/26/2018,10,3
+42,42,SW,Short Game,Fairway,30,Green,6,0.163,Palmer,LaurelCreek,1/26/2018,10,2
+43,43,Putter,Green,Green,6,In the Hole,0,0.357,Palmer,LaurelCreek,1/26/2018,10,1
+44,44,Driver,Tee,Tee,385,Fairway,150,0.025,Palmer,LaurelCreek,1/26/2018,11,6
+45,45,7i,APPR125-175,Fairway,150,Fairway,150,-1,Palmer,LaurelCreek,1/26/2018,11,5
+46,46,7i,APPR125-175,Fairway,150,Fairway,90,-0.825,Palmer,LaurelCreek,1/26/2018,11,4
+47,47,AW,APPR<125,Fairway,90,Rough,15,-0.695,Palmer,LaurelCreek,1/26/2018,11,3
+48,48,SW,Short Game,Rough,15,Green,6,0.108,Palmer,LaurelCreek,1/26/2018,11,2
+49,49,Putter,Green,Green,6,In the Hole,0,0.357,Palmer,LaurelCreek,1/26/2018,11,1
+50,50,Driver,Tee,Tee,420,Fairway,230,-0.365,Palmer,LaurelCreek,1/26/2018,12,5
+51,51,3H,APPR210+,Fairway,230,Fairway,40,-0.215,Palmer,LaurelCreek,1/26/2018,12,4
+52,52,SW,Short Game,Fairway,40,Green,15,-0.19,Palmer,LaurelCreek,1/26/2018,12,3
+53,53,Putter,Green,Green,15,Green,4,-0.357,Palmer,LaurelCreek,1/26/2018,12,2
+54,54,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,12,1
+55,55,Driver,Tee,Tee,385,Fairway,150,0.025,Palmer,LaurelCreek,1/26/2018,13,4
+56,56,8i,APPR125-175,Fairway,150,Green,30,-0.033,Palmer,LaurelCreek,1/26/2018,13,3
+57,57,Putter,Green,Green,30,Green,4,-0.169,Palmer,LaurelCreek,1/26/2018,13,2
+58,58,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,13,1
+59,59,8i,Tee,Tee,150,Green,12,0.275,Palmer,LaurelCreek,1/26/2018,14,3
+60,60,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,1/26/2018,14,2
+61,61,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,1/26/2018,14,1
+62,62,Driver,Tee,Tee,510,Rough,290,-0.385,Palmer,LaurelCreek,1/26/2018,15,5
+63,63,4i,APPR210+,Rough,290,Rough,140,-0.285,Palmer,LaurelCreek,1/26/2018,15,4
+64,64,9i,APPR125-175,Rough,140,Green,20,0.272,Palmer,LaurelCreek,1/26/2018,15,3
+65,65,Putter,Green,Green,20,Green,2,-0.131,Palmer,LaurelCreek,1/26/2018,15,2
+66,66,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,1/26/2018,15,1
+67,67,Driver,Tee,Tee,405,Rough,160,-0.23,Palmer,LaurelCreek,1/26/2018,16,4
+68,68,7i,APPR125-175,Rough,160,Sand,20,-0.3,Palmer,LaurelCreek,1/26/2018,16,3
+69,69,LW,Short Game,Sand,20,Green,4,0.383,Palmer,LaurelCreek,1/26/2018,16,2
+70,70,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,1/26/2018,16,1
+71,71,4i,Tee,Tee,208,Rough,25,-0.501,Palmer,LaurelCreek,1/26/2018,17,4
+72,72,LW,Short Game,Rough,25,Rough,6,-0.695,Palmer,LaurelCreek,1/26/2018,17,3
+73,73,LW,Short Game,Rough,6,Green,2,0.331,Palmer,LaurelCreek,1/26/2018,17,2
+74,74,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,1/26/2018,17,1
+75,75,Driver,Tee,Tee,410,Fairway,130,0.13,Palmer,LaurelCreek,1/26/2018,18,4
+76,76,AW,APPR125-175,Fairway,130,Green,15,0.09,Palmer,LaurelCreek,1/26/2018,18,3
+77,77,Putter,Green,Green,15,Green,1,-0.211,Palmer,LaurelCreek,1/26/2018,18,2
+78,78,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,1/26/2018,18,1
+1,1,Driver,Tee,Tee,410,Fairway,151,0.061,Palmer,LaurelCreek,9/10/2017,1,5
+2,2,9i,APPR125-175,Fairway,151,Green,25,0.015,Palmer,LaurelCreek,9/10/2017,1,4
+3,3,Putter,Green,Green,25,Green,4,-0.213,Palmer,LaurelCreek,9/10/2017,1,3
+4,4,Putter,Green,Green,4,Green,1,-0.854,Palmer,LaurelCreek,9/10/2017,1,2
+5,5,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,1,1
+6,6,3W,Tee,Tee,365,Sand,139,-0.29,Palmer,LaurelCreek,9/10/2017,2,5
+7,7,9i,APPR125-175,Sand,139,Sand,15,-0.26,Palmer,LaurelCreek,9/10/2017,2,4
+8,8,LW,Short Game,Sand,15,Green,12,-0.225,Palmer,LaurelCreek,9/10/2017,2,3
+9,9,Putter,Green,Green,12,Green,1,-0.296,Palmer,LaurelCreek,9/10/2017,2,2
+10,10,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,2,1
+11,11,9i,Tee,Tee,148,Green,2,0.969,Palmer,LaurelCreek,9/10/2017,3,2
+12,12,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,9/10/2017,3,1
+13,13,Driver,Tee,Tee,391,Fairway,136,0.083,Palmer,LaurelCreek,9/10/2017,4,4
+14,14,PW,APPR125-175,Fairway,136,Green,22,-0.005,Palmer,LaurelCreek,9/10/2017,4,3
+15,15,Putter,Green,Green,22,Green,2,-0.106,Palmer,LaurelCreek,9/10/2017,4,2
+16,16,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,9/10/2017,4,1
+17,17,Driver,Tee,Tee,503,Rough,225,-0.127,Palmer,LaurelCreek,9/10/2017,5,5
+18,18,6i,APPR210+,Rough,225,Fairway,40,-0.042,Palmer,LaurelCreek,9/10/2017,5,4
+19,19,LW,Short Game,Fairway,40,Green,20,-0.278,Palmer,LaurelCreek,9/10/2017,5,3
+20,20,Putter,Green,Green,20,Green,3,-0.175,Palmer,LaurelCreek,9/10/2017,5,2
+21,21,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,9/10/2017,5,1
+22,22,Driver,Tee,Tee,414,Sand,180,-0.386,Palmer,LaurelCreek,9/10/2017,6,5
+23,23,5i,APPR176-210,Sand,180,Fairway,30,-0.12,Palmer,LaurelCreek,9/10/2017,6,4
+24,24,LW,Short Game,Fairway,30,Green,12,-0.185,Palmer,LaurelCreek,9/10/2017,6,3
+25,25,Putter,Green,Green,12,Green,2,-0.304,Palmer,LaurelCreek,9/10/2017,6,2
+26,26,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,9/10/2017,6,1
+27,27,4i,Tee,Tee,204,Green,35,0.116,Palmer,LaurelCreek,9/10/2017,7,5
+28,28,Putter,Green,Green,35,Green,15,-0.774,Palmer,LaurelCreek,9/10/2017,7,4
+29,29,Putter,Green,Green,15,Green,4,-0.357,Palmer,LaurelCreek,9/10/2017,7,3
+30,30,Putter,Green,Green,4,Green,1,-0.854,Palmer,LaurelCreek,9/10/2017,7,2
+31,31,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,7,1
+32,32,3H,Tee,Tee,339,Fairway,125,-0.008,Palmer,LaurelCreek,9/10/2017,8,5
+33,33,AW,APPR125-175,Fairway,125,Green,15,0.075,Palmer,LaurelCreek,9/10/2017,8,4
+34,34,Putter,Green,Green,15,Green,4,-0.357,Palmer,LaurelCreek,9/10/2017,8,3
+35,35,Putter,Green,Green,4,Green,1,-0.854,Palmer,LaurelCreek,9/10/2017,8,2
+36,36,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,8,1
+37,37,Driver,Tee,Tee,535,Penalty,265,-1.1375,Palmer,LaurelCreek,9/10/2017,9,5
+38,38,Penalty,Penalty,Penalty,265,Penalty,0,0,Palmer,LaurelCreek,9/10/2017,9,4
+39,39,5i,APPR210+,Rough,265,Fairway,107,-0.055,Palmer,LaurelCreek,9/10/2017,9,3
+40,40,SW,APPR<125,Fairway,107,Green,12,0.112,Palmer,LaurelCreek,9/10/2017,9,2
+41,41,Putter,Green,Green,12,In the Hole,0,0.705,Palmer,LaurelCreek,9/10/2017,9,1
+42,42,Driver,Tee,Tee,404,Rough,170,-0.272,Palmer,LaurelCreek,9/10/2017,10,4
+43,43,6i,APPR125-175,Rough,170,Green,8,0.755,Palmer,LaurelCreek,9/10/2017,10,3
+44,44,Putter,Green,Green,8,Green,3,-0.538,Palmer,LaurelCreek,9/10/2017,10,2
+45,45,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,9/10/2017,10,1
+46,46,3H,Tee,Tee,385,Fairway,135,0.075,Palmer,LaurelCreek,9/10/2017,11,4
+47,47,SW,APPR125-175,Fairway,135,Green,15,0.105,Palmer,LaurelCreek,9/10/2017,11,3
+48,48,Putter,Green,Green,15,Green,1,-0.211,Palmer,LaurelCreek,9/10/2017,11,2
+49,49,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,11,1
+50,50,Driver,Tee,Tee,420,Fairway,155,0.057,Palmer,LaurelCreek,9/10/2017,12,5
+51,51,8i,APPR125-175,Fairway,155,Green,14,0.198,Palmer,LaurelCreek,9/10/2017,12,4
+52,52,Putter,Green,Green,14,Green,10,-0.861,Palmer,LaurelCreek,9/10/2017,12,3
+53,53,Putter,Green,Green,10,Green,1,-0.375,Palmer,LaurelCreek,9/10/2017,12,2
+54,54,Putter,Green,Green,1,In the Hole,0,0.001,Palmer,LaurelCreek,9/10/2017,12,1
+55,55,3W,Tee,Tee,374,Rough,125,-0.15,Palmer,LaurelCreek,9/10/2017,13,4
+56,56,AW,APPR125-175,Rough,125,Sand,15,-0.382,Palmer,LaurelCreek,9/10/2017,13,3
+57,57,SW,Short Game,Sand,15,Green,10,-0.146,Palmer,LaurelCreek,9/10/2017,13,2
+58,58,Putter,Green,Green,10,In the Hole,0,0.626,Palmer,LaurelCreek,9/10/2017,13,1
+59,59,8i,Tee,Tee,155,Green,20,0.107,Palmer,LaurelCreek,9/10/2017,14,4
+60,60,Putter,Green,Green,20,Green,5,-0.378,Palmer,LaurelCreek,9/10/2017,14,3
+61,61,Putter,Green,Green,5,Green,2,-0.753,Palmer,LaurelCreek,9/10/2017,14,2
+62,62,Putter,Green,Green,2,In the Hole,0,0.009,Palmer,LaurelCreek,9/10/2017,14,1
+63,63,Driver,Tee,Tee,510,Penalty,510,-2,Palmer,LaurelCreek,9/10/2017,15,7
+64,64,Penalty,Penalty,Penalty,510,Penalty,0,0,Palmer,LaurelCreek,9/10/2017,15,6
+65,65,Driver,Tee,Tee,510,Fairway,260,-0.1,Palmer,LaurelCreek,9/10/2017,15,5
+66,66,3H,APPR210+,Fairway,260,Rough,90,-0.41,Palmer,LaurelCreek,9/10/2017,15,4
+67,67,LW,APPR<125,Rough,90,Green,20,0.112,Palmer,LaurelCreek,9/10/2017,15,3
+68,68,Putter,Green,Green,20,Green,4,-0.269,Palmer,LaurelCreek,9/10/2017,15,2
+69,69,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,9/10/2017,15,1
+70,70,3W,Tee,Tee,405,Fairway,180,-0.08,Palmer,LaurelCreek,9/10/2017,16,4
+71,71,6i,APPR176-210,Fairway,180,Green,20,0.202,Palmer,LaurelCreek,9/10/2017,16,3
+72,72,Putter,Green,Green,20,Green,4,-0.269,Palmer,LaurelCreek,9/10/2017,16,2
+73,73,Putter,Green,Green,4,In the Hole,0,0.147,Palmer,LaurelCreek,9/10/2017,16,1
+74,74,4i,Tee,Tee,205,Penalty,205,-2,Palmer,LaurelCreek,9/10/2017,17,5
+75,75,Penalty,Penalty,Penalty,205,Penalty,0,0,Palmer,LaurelCreek,9/10/2017,17,4
+76,76,4i,Tee,Tee,205,Rough,20,-0.455,Palmer,LaurelCreek,9/10/2017,17,3
+77,77,LW,Short Game,Rough,20,Green,5,0.334,Palmer,LaurelCreek,9/10/2017,17,2
+78,78,Putter,Green,Green,5,In the Hole,0,0.256,Palmer,LaurelCreek,9/10/2017,17,1
+79,79,Driver,Tee,Tee,410,Fairway,200,-0.18,Palmer,LaurelCreek,9/10/2017,18,5
+80,80,4i,APPR176-210,Fairway,200,Fairway,25,-0.27,Palmer,LaurelCreek,9/10/2017,18,4
+81,81,LW,Short Game,Fairway,25,Green,12,-0.245,Palmer,LaurelCreek,9/10/2017,18,3
+82,82,Putter,Green,Green,12,Green,3,-0.348,Palmer,LaurelCreek,9/10/2017,18,2
+83,83,Putter,Green,Green,3,In the Hole,0,0.053,Palmer,LaurelCreek,9/10/2017,18,1
